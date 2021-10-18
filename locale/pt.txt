@@ -23,6 +23,8 @@ Button_1FE4B611_0C0A_256F_418E_EA27E66F8360.label = Localizaçao
 Button_1FE4B611_0C0A_256F_418E_EA27E66F8360_mobile.label = Localizaçao
 Button_386DE8AA_17CC_0B05_41B5_DE879E1001C4.label = lorem ipsum
 Button_386DE8AA_17CC_0B05_41B5_DE879E1001C4_mobile.label = lorem ipsum
+Button_8AC46F8B_9531_8DB9_41DB_2D1F1D433274_mobile.label = iFood
+Button_8B693D71_9531_8D66_41C3_91168DCA7E0C.label = iFood
 
 ### Multiline Text
 HTMLText_1830E20E_17B1_6AC3_419B_A422A7600CB2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.92vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:4.92vh;font-family:'Oswald';"><B>______</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.36vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.36vh;font-family:'Oswald';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.3vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.3000000000000007vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:2.3vh;font-family:'Oswald Regular';"><B>Dolor sit amet, consectetur adipiscing elit. Nunc porttitor ac nulla vitae.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.75vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.7499999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.75vh;font-family:'Oswald';"><B>www.loremipsum.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7499999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.75vh;font-family:'Oswald';"><B>info@loremipsum.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7499999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.75vh;font-family:'Oswald';"><B>Tlf.: +11 111 111 111</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7499999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.75vh;font-family:'Oswald';"><B>Address line 1</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7499999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.75vh;font-family:'Oswald';"><B>Address line 2</B></SPAN></SPAN></DIV></div>
@@ -46,7 +48,7 @@ panorama_81816D19_9551_89AE_418F_EA73A442D6D7.label = 2
 panorama_866AED42_9551_89A2_41DD_9D4181C2FC47.label = 5
 panorama_866D8273_9551_9862_41D2_5B0E0626D330.label = 4
 panorama_866D97C6_9551_F8A2_41D5_6D62EFCCCDA2.label = 3
-panorama_866DD7EF_9551_B862_41A4_745793ED226D.label = 6
+panorama_8E9D064A_95D2_BBA2_41DC_929C968165B6.label = fachada
 video_9B4C87CD_9533_98A1_41D8_CE676710B518.label = loading
 
 ## Action
@@ -59,4 +61,6 @@ LinkBehaviour_87145CFC_9531_8866_41C4_53FD5E75DF42.source = https://www.instagra
 LinkBehaviour_87146CFB_9531_8862_41DF_E19B0C32630F.source = https://api.whatsapp.com/send?phone=5511943502686
 LinkBehaviour_8715ACFC_9531_8866_41B2_251E1A555857.source = https://www.google.com/maps?cid=1483690325167656566
 LinkBehaviour_872D4D14_9531_89A6_41B8_5AFE2C878E87.source = http://www.loremipsum.com
+LinkBehaviour_8B296B7A_9531_955A_41D2_3486129E5D00.source = https://www.ifood.com.br/delivery/osasco-sp/santa-ceia-piratininga/89565da6-7ccd-467e-a96b-56204c42ea4b
+LinkBehaviour_8B5E2E76_9532_8F6B_41DE_E462FF6A5CD0.source = https://www.ifood.com.br/delivery/osasco-sp/santa-ceia-piratininga/89565da6-7ccd-467e-a96b-56204c42ea4b
 LinkBehaviour_9B3F99A0_9532_889E_41A9_9CFAF09EC4EB.source = http://www.loremipsum.com
